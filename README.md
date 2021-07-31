@@ -17,14 +17,9 @@ Purpose of this repository is to integrate Red-Hat and Docker in a Mobile App.<b
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-![GitHub open issues](https://img.shields.io/github/issues-raw/vilsi12/Red-Hat-Mobil-App?color=%23f&logo=Github)
-![GitHub open pull requests](https://img.shields.io/github/issues-pr-raw/vilsi12/Red-Hat-Mobil-App?logo=Github)
-![GitHub contributors](https://img.shields.io/github/contributors/vilsi12/Red-Hat-Mobil-App?logo=Github)
-![GitHub forks](https://img.shields.io/github/forks/vilsi12/Red-Hat-Mobil-App?color=%233493eb&label=Forks&logo=Github)
+![GitHub forks](https://img.shields.io/github/forks/vilsi12/Redhat-Docker-Mobile?color=%233493eb&label=Forks&logo=Github)
 ![GitHub Repo stars](https://img.shields.io/github/stars/vilsi12/Red-Hat-Mobil-App?color=%233493eb&logo=Github)
 ![GitHub watchers](https://img.shields.io/github/watchers/vilsi12/Red-Hat-Mobil-App?logo=Github)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/vilsi12/Red-Hat-Mobil-App?color=%2300&logo=Github)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/vilsi12/Red-Hat-Mobil-App?logo=Github)<br>
 ![Framework-Flutter](https://img.shields.io/badge/Framework-Flutter-orange)
 ![Language-Dart](https://img.shields.io/badge/Language-Dart-orange)
 ![Database-Firebase](https://img.shields.io/badge/Database-Firebase-orange)
