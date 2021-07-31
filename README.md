@@ -1,11 +1,3 @@
-# linuxcmd
-
-
-
-
-
-
-
 Purpose of this repository is to integrate Red-Hat and Docker in a Mobile App.<br>
 * This is a Flutter project
 * You can run all your commands of **Red Hat** and **Docker** in this app.
