@@ -36,11 +36,6 @@ Purpose of this repository is to integrate Red-Hat and Docker in a Mobile App.<b
 * Login 
 * Chat
 
-## Need Help?
-Join our [Discord](https://discord.gg/f5WRUgArAD) Channel or check video link below in which I have guided:
-* How To run the app
-* How to work on issuess 
-* All other releated topics
 
 Youtube [Red Hat Mobile App Project Open Source Contribution](https://www.youtube.com/embed/t1Fo3KUx1_k)
 
